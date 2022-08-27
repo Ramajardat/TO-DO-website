@@ -24,8 +24,9 @@ Rama Jaradat
 
 live link :https://ramajardat.github.io/TO-DO-website/
 
-figma link:figma.com/file/m14hwk33owrPh18PVD4dYM/Untitled?node-id=0%3A1
+figma pdf Format:
 
+[task-organizaer.pdf](https://github.com/Ramajardat/TO-DO-website/files/9438600/task-organizaer.pdf)
 
 Trello link: https://trello.com/b/YStX5fIr/project
 
