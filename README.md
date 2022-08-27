@@ -14,11 +14,11 @@ Edit todo cards
  logged out
 
 Team members :
-Waad Ajawneh
-Osama Dosoky
-Ahmad Zahran
-Ibrahim Taqieddin
-Rama Jaradat
+Waad Ajawneh,
+Osama Dosoky,
+Ahmad Zahran,
+Ibrahim Taqieddin,
+Rama Jaradat.
 
 
 
